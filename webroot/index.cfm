@@ -1,8 +1,7 @@
 <h1>Welcome</h1>
 <cfoutput>
-Lucee #server.lucee.version# running on Heroku test 2
+Lucee #server.lucee.version# running on Heroku
 </cfoutput>
-
 
 <h2>Environment variables available..</h2>
 
