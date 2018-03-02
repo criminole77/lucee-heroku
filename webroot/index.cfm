@@ -1,6 +1,6 @@
 <h1>Welcome</h1>
 <cfoutput>
-Lucee #server.lucee.version# running on Heroku test
+Lucee #server.lucee.version# running on Heroku test 2
 </cfoutput>
 
 
